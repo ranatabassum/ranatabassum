@@ -1,12 +1,9 @@
 
 <h1 align="center">Hi there 👋, I'm Rana Tabassum</h1>
-<h3 align="center">A passionate Software Quality Assurance Engineer from Bangladesh</h3>
+<h3 align="center">A Software Quality Assurance Engineer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rtsqa&label=Profile%20views&color=0e75b6&style=flat" alt="rtsqa" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rtsqa" alt="rtsqa" /></a> </p>
-
-- 🔭 I’m currently working on **Github Profile**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
