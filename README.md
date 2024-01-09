@@ -1,5 +1,3 @@
-![MasterHead](https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/318534734/original/0f37f8dd03cb71f0660f60bf75c513fa1288c7b2/be-your-sqa-engineer-and-qa-tester-for-your-software.jpg)
-
 
 <h1 align="center">Hi there 👋, I'm Rana Tabassum</h1>
 <h3 align="center">A passionate Software Quality Assurance Engineer from Bangladesh</h3>
